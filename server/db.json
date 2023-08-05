@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "mg mg",
+      "phoneNo": "0912345"
+    },
+    {
+      "id": 2,
+      "name": "mya mya",
+      "phoneNo": "0912346"
+    },
+    {
+      "id": 1691238979745,
+      "name": "momo",
+      "phoneNo": "555555555555"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
